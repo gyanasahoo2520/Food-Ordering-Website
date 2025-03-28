@@ -51,4 +51,4 @@ Start the server
 
 ## 🔗 Let's Connect
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-sharma50/)
+[![linkedin](https://www.linkedin.com/in/gyana-ranjan-sahoo-a39061225/)
