@@ -2,7 +2,7 @@
 
 ### [Namaste React Live Course](https://learn.namastedev.com/courses/namaste-react-live) from Zero to Hero 🚀 by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/) Founder of [NamasteDev](https://courses.namastedev.com/learn/Namaste-React).
 
-- I made [🚀 foodie-apps 😍](https://foodie-apps.netlify.app//) from scratch using React.js and Parcel.js, which is the part of this course.
+- I made [🚀 food_Junction-App ](https://food-junction2520.netlify.app//) from scratch using React.js and Parcel.js, which is the part of this course.
 
 
 ## To Clone this Repository
@@ -10,7 +10,7 @@
 You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
 
 ```bash
-  git clone "https://github.com/RohitSharma50/food-orderinf-website"
+  git clone "https://github.com/gyanasahoo2520/Food-Ordering-Website"
 ```
 
 Go to the project directory
