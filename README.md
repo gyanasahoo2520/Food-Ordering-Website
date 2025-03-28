@@ -46,9 +46,3 @@ Start the server
 ◉ Context API
 ◉ Lifting The State Up
 
-
-
-
-## 🔗 Let's Connect
-
-[![linkedin](https://www.linkedin.com/in/gyana-ranjan-sahoo-a39061225/)
